@@ -1,6 +1,7 @@
 ---
 layout: page
-title: news
+title: News
+social: true
 permalink: /news/
 ---
 

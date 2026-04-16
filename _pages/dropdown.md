@@ -1,13 +1,19 @@
 ---
 layout: page
-title: submenus
+title: Weiteres
 nav: true
-nav_order: 8
+nav_order: 3
 dropdown: true
 children:
-  - title: bookshelf
+  - title: Bücher
     permalink: /books/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: News
+    permalink: /news/
+  - title: divider
+  - title: Wie funktionierts?
+    permalink: /wie-funktionierts/
+  - title: divider
+  - title: CV
+    permalink: https://www.linkedin.com/in/max-stridde/
 ---
